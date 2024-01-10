@@ -1,24 +1,38 @@
 package main
-import "fmt"
+// import "fmt"
 
-func main() {
+ 
 
-    var Welcome string = "Welcome"
-    fmt.Println(Welcome)
-    
-    var Name string = "Kefs" + "" + "Dods"
-    fmt.Println(Name)
+// func main() {
 
-    myVar := "Kefah"
-    fmt.Println(myVar)
+//     var Welcome string = "Welcome"
+//     fmt.Println(Welcome)
 
-    age := 27
-    fmt.Println(age) 
+//     var Name string = "Kefs" + "" + "Dods"
+//     fmt.Println(Name)
 
-    employed := false
-    fmt.Println(employed)
+//     myVar := "Kefah"
+//     fmt.Println(myVar) 
 
-    // age, employed := 27, false
-    // fmt.Println(age, employed)
-}
+//     age := 27
+//     fmt.Println(age) 
+
+//     employed := false
+//     fmt.Println(employed)
+
+//     if 1==2 || 1!=1 {
+//         fmt.Println("true")
+//     } else {
+//         fmt.Println("false")
+//     }
+
+  
+
+
+
+//     // age, employed := 27, false
+//     // fmt.Println(age, employed)
+// }
+
+
 
